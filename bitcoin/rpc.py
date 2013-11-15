@@ -1,5 +1,3 @@
-
-
 # Copyright 2011 Jeff Garzik
 #
 # RawProxy has the following improvements over python-jsonrpc's ServiceProxy
